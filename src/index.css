@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.GameBoard {
+    margin: 0 auto;
+    width: 462px;
+    height: 462px;
+}
+
+.Square {
+    height: 150px;
+    width: 150px;
+    margin: 2px;
+    background-color: pink;
+
+    line-height: 150px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 60pt;
+}
